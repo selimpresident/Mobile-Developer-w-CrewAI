@@ -1,0 +1,19 @@
+tasks:
+  - description: "Müşteri gereksinimlerinin toplanması ve analiz edilmesi. Kullanıcı hikayeleri ve gereksinim dökümanlarının oluşturulması."
+    expected_output: "Gereksinim dökümanları ve kullanıcı hikayeleri."
+    agent: "Project Manager"
+  - description: "UI/UX tasarımcının arayüz ve kullanıcı deneyimi tasarımlarını oluşturması. Prototiplerin oluşturulması ve müşteri onayı alınması."
+    expected_output: "Tasarım prototipleri ve kullanıcı akışları."
+    agent: "UI/UX Designer"
+  - description: "Frontend ve Backend geliştirme ekiplerinin koordinasyon içinde çalışması. IOS ve Android geliştiricilerin uygulamaları geliştirmesi. Backend geliştiricilerin API ve sunucu tarafı uygulamaları geliştirmesi."
+    expected_output: "Geliştirilmiş frontend, backend, IOS ve Android uygulamaları."
+    agent: ["IOS Developer", "Android Developer", "Backend Developer"]
+  - description: "Uygulamanın entegrasyon testlerinin yapılması. Test uzmanlarının otomatik ve manuel testler yapması. Hataların giderilmesi ve son testlerin yapılması."
+    expected_output: "Başarıyla geçilen testler ve hatasız uygulama."
+    agent: "QA Engineer"
+  - description: "Uygulamanın App Store ve Google Play Store'a yüklenmesi. DevOps mühendisinin CI/CD süreçlerini yönetmesi ve uygulamanın yayına alınması."
+    expected_output: "Yayına alınmış uygulama."
+    agent: "DevOps Engineer"
+  - description: "Uygulamanın düzenli olarak güncellenmesi ve bakımının yapılması. Kullanıcı geri bildirimlerinin alınarak gerekli güncellemelerin yapılması."
+    expected_output: "Güncellenmiş ve bakımı yapılmış uygulama."
+    agent: ["IOS Developer", "Android Developer", "Backend Developer"]
